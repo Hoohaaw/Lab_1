@@ -1,0 +1,1 @@
+First assignment for the university course 1DV610. Initially codebase was written in gitlab repo. Therefore the odd commit history. Check my public gitlab repo for full commit history: https://gitlab.lnu.se/ap224gy/lab-1
